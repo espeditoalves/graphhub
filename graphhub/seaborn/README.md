@@ -1,5 +1,5 @@
 
-[Notebook de Exemplo](seaborn.ipynb)
+[Notebook: Figure-level vs. axes-level functions](seaborn_figure_axes_level.ipynb)
 
 - [Figure-level vs. axes-level functions](#figure-level-vs-axes-level-functions)
   - [Axes-level function:](#axes-level-function)
