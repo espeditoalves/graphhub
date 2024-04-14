@@ -10,7 +10,7 @@ O objetivo deste repositório é reunir as principais informações para criar g
 
 Cada diretório neste repositório contém exemplos de uso dessas bibliotecas para criar diferentes tipos de gráficos, desde gráficos simples até visualizações mais complexas e interativas.
 
-- [`Matplotlib`](graphhub\matplotlib\README.md)
+- [`Matplotlib`](graphhub/matplotlib/README.md)
 - `seaborn/`: Exemplos de gráficos criados com a biblioteca Seaborn.
 - `plotly/`: Exemplos de gráficos criados com a biblioteca Plotly.
 - `bokeh/`: Exemplos de gráficos criados com a biblioteca Bokeh.
