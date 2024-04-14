@@ -97,6 +97,46 @@ Esta função configura os aspectos do tema visual para todos os gráficos do Ma
 
 Retorna um dicionário com os parâmetros de estilo dos eixos. É útil para obter ou definir temporariamente o estilo dos eixos para um gráfico específico.
 
+```python
+{'axes.facecolor': 'white',
+ 'axes.edgecolor': 'black',
+ 'axes.grid': False,
+ 'axes.axisbelow': 'line',
+ 'axes.labelcolor': 'black',
+ 'figure.facecolor': 'white',
+ 'grid.color': '#b0b0b0',
+ 'grid.linestyle': '-',
+ 'text.color': 'black',
+ 'xtick.color': 'black',
+ 'ytick.color': 'black',
+ 'xtick.direction': 'out',
+ 'ytick.direction': 'out',
+ 'lines.solid_capstyle': <CapStyle.projecting: 'projecting'>,
+ 'patch.edgecolor': 'black',
+ 'patch.force_edgecolor': False,
+ 'image.cmap': 'viridis',
+ 'font.family': ['sans-serif'],
+ 'font.sans-serif': ['DejaVu Sans',
+  'Bitstream Vera Sans',
+  'Computer Modern Sans Serif',
+  'Lucida Grande',
+  'Verdana',
+  'Geneva',
+  'Lucid',
+  'Arial',
+  'Helvetica',
+  'Avant Garde',
+  'sans-serif'],
+ 'xtick.bottom': True,
+ 'xtick.top': False,
+ 'ytick.left': True,
+ 'ytick.right': False,
+ 'axes.spines.left': True,
+ 'axes.spines.bottom': True,
+ 'axes.spines.right': True,
+ 'axes.spines.top': True}
+```
+
 ## `sns.set_style()`
 
 Define o estilo estético dos eixos dos gráficos. É uma forma de configurar a aparência dos gráficos mais permanentemente.
