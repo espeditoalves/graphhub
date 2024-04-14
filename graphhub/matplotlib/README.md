@@ -1,4 +1,4 @@
-- [Notebook - Exemplos](graphhub/matplotlib/matplotlib.ipynb)
+- [Notebook - Exemplos](matplotlib.ipynb)
 
 # Matplotlib.pyplot
 
