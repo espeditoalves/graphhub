@@ -21,7 +21,8 @@ Cada diretório contém um conjunto de scripts Python demonstrando diferentes t�
 
 Você pode explorar os diferentes diretórios para encontrar exemplos específicos de gráficos que deseja criar. Cada exemplo é acompanhado por um arquivo README explicando o que o script faz e como executá-lo.
  
-
 ## Contribuição
 
 Contribuições são bem-vindas! Se você tem um exemplo interessante de visualização de dados em Python ou deseja melhorar algum dos exemplos existentes, sinta-se à vontade para enviar um pull request.
+
+teste
