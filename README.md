@@ -12,8 +12,8 @@ Cada diretório neste repositório contém exemplos de uso dessas bibliotecas pa
 
 - [`Matplotlib`](graphhub/matplotlib/README.md)
 - `seaborn/`: Exemplos de gráficos criados com a biblioteca Seaborn.
-- `plotly/`: Exemplos de gráficos criados com a biblioteca Plotly.
-- `bokeh/`: Exemplos de gráficos criados com a biblioteca Bokeh.
+- [`plotly/`](graphhub\plotly\README.md)
+- [`bar_chart_race`](graphhub\bar_chart_race\README)
 
 Cada diretório contém um conjunto de scripts Python demonstrando diferentes técnicas de visualização de dados e como utilizar as funcionalidades específicas de cada biblioteca.
 
