@@ -13,6 +13,7 @@ ffmpeg-python = "^0.2.0"
 openpyxl = "^3.1.2"
 plotly = "^5.20.0"
 nbformat = "^5.10.4"
+numpy = "^1.26.4"
 
 
 [tool.poetry.group.dev.dependencies]
