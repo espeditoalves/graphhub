@@ -38,6 +38,8 @@ Elas interagem com o Matplotlib por meio de um objeto do Seaborn, geralmente um 
 Essas funções são particularmente úteis quando você deseja criar gráficos complexos com múltiplos subplots de maneira fácil e consistente.
 Em resumo, se você precisa de um gráfico simples ou está ajustando um subplot específico, uma função de nível de eixo pode ser a escolha certa. Por outro lado, se você quer criar uma figura com múltiplos gráficos ou precisa de uma maneira conveniente de explorar diferentes aspectos dos seus dados, uma função de nível de figura será mais apropriada1.
 
+`Figure-level functions` não podem (facilmente) ser compostas com outros gráficos. Por design, eles “possuem” sua própria figura, incluindo sua inicialização, portanto <span style="color:red">**não faz sentido usar uma Figure-level functions para desenhar um gráfico em eixos existentes**</span>. 
+
 # Resumo Principais funções do seaborn
 
 [Notebook: seaborn_exemplos](seaborn_exemplos.ipynb)
